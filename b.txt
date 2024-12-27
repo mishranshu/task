@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 from auto
+=======
+modifed from car
+>>>>>>> car
